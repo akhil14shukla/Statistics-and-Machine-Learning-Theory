@@ -9,6 +9,7 @@ Theory and resources of statistics required for Machine Learning
 3. [Machine Learning Cheatsheet for Interviews](https://www.kaggle.com/getting-started/244885) : pdf uploaded 
 4. [Feature Engineering Theoretical](https://www.kaggle.com/harshjain123/feature-engineering-from-scratch) : might be useful depending on the situation
 5. [Time Series ARIMA Model, Kaggle](https://www.kaggle.com/prashant111/arima-model-for-time-series-forecasting) and [Time Series Analysis, Theory and Basics](https://www.kaggle.com/prashant111/complete-guide-on-time-series-analysis-in-python)
+6. [Predictive Power Score](https://towardsdatascience.com/rip-correlation-introducing-the-predictive-power-score-3d90808b9598)
 
 ### Neural Network and TensorFlow - Helpful in tuning the hyperparameters
 1. [Huber Loss](https://www.machinecurve.com/index.php/2019/10/12/using-huber-loss-in-keras/) - combines MAE and MSE
