@@ -12,10 +12,11 @@ Theory and resources of statistics required for Machine Learning
 6. [Predictive Power Score](https://towardsdatascience.com/rip-correlation-introducing-the-predictive-power-score-3d90808b9598)
 
 ### Neural Network and TensorFlow - Helpful in tuning the hyperparameters
-1. [Huber Loss](https://www.machinecurve.com/index.php/2019/10/12/using-huber-loss-in-keras/) - combines MAE and MSE
-2. [Activation Functions Available](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)
-3. [Difference between Batch and Epoch](https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/)
-4. [Dropout for Regularizing Neural Networks](https://machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/)
+1. [RNN, LSTM, and basics of Neural Networks](http://cse.iitkgp.ac.in/~psraja/FNNs%20,RNNs%20,LSTM%20and%20BLSTM.pdf)
+2. [Huber Loss](https://www.machinecurve.com/index.php/2019/10/12/using-huber-loss-in-keras/) - combines MAE and MSE
+3. [Activation Functions Available](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)
+4. [Difference between Batch and Epoch](https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/)
+5. [Dropout for Regularizing Neural Networks](https://machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/)
 
 ### LSTM, Basics and Depth
 
