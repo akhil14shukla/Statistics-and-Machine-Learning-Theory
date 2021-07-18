@@ -23,6 +23,7 @@ Theory and resources of statistics required for Machine Learning
 1. [Choosing the right parameters for LSTM model](https://towardsdatascience.com/choosing-the-right-hyperparameters-for-a-simple-lstm-using-keras-f8e9ed76f046)
 2. [LSTM - 1](http://www.bioinf.jku.at/publications/older/2604.pdf) - still need to go through this and check if it's worth reading
 3. [LSTM - 2](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) - still need to check if it's worth reading
+4. [Architecture and working of LSTM](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)- one of the bests out there
 
 
 ### General Programming
